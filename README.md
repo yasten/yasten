@@ -26,5 +26,5 @@ I hope you enjoy persuing my profile :wink:.
   <img align="left" alt="Yaseen's LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="mailto:yaseen.tengur@gmail.com">
-  <img align="left" alt="Yaseen's Email" width="30px" src="https://symbols.getvecta.com/stencil_3/11_gmail.90429cda85.svg" />
+  <img align="left" alt="Yaseen's Email" width="25px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
 </a>
