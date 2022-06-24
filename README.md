@@ -3,7 +3,7 @@
 
 <p>
 I'm currently studying MSc Data Science in London.
-I hope you enjoy persuing my profile :wink:.
+I hope you enjoy perusing my profile :wink:.
 </p>
 
 <h3>languages and tools:</h3>
