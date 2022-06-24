@@ -14,7 +14,7 @@ I hope you enjoy persuing my profile :wink:.
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="Microsoft Azure"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"></code>
-<code><img height="25" src="https://symbols.getvecta.com/stencil_83/3_hadoop-icon.68d910d26c.svg" alt=""></code>
+<code><img height="25" src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt=""></code>
 
 
 <h3>Reach me via:</h3>
