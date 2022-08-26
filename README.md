@@ -2,7 +2,7 @@
 
 
 <p>
-I'm currently studying MSc Data Science in London.
+I'm a software engineer in London.
 I hope you enjoy perusing my profile :wink:.
 </p>
 
