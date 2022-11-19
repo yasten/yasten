@@ -27,6 +27,6 @@ I hope you enjoy perusing my profile :wink:.
 <a href="https://www.linkedin.com/in/yaseen-tengur/">
   <img align="left" alt="Yaseen's LinkedIn" width="25px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="mailto:yaseen.tengur@gmail.com">
+<a href="mailto:yaseen.tengur@gmail.com?subject=I saw you on GitHub!">
   <img align="left" alt="Yaseen's Email" width="25px" src="https://cdn.worldvectorlogo.com/logos/official-gmail-icon-2020-.svg" />
 </a>
